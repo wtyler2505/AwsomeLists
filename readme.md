@@ -887,6 +887,7 @@
 - [Astrophotography](https://github.com/lunohodov/awesome-astrophotography#readme) - Photography of astronomical objects, celestial events, or areas of the night sky.
 - [HPC](https://github.com/dstdev/awesome-hpc#readme) - High Performance Computing.
 - [Geocaching](https://github.com/FoxFil/awesome-geocaching#readme) - Outdoor treasure-hunting activity that uses GPS-enabled devices.
+- [Ukrainian IT Communities](https://github.com/grem11n/awesome-it-communities-ua#readme) - Ukrainian IT communities and resources about programming, data science and software engineering in general.
 
 ## Related
 
